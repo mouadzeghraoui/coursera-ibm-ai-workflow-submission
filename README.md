@@ -1,11 +1,14 @@
 # coursera-ibm-ai-workflow-submission
 
 
-## Runing the application 
+## 0. Runing the application 
 
 To start this application run the following command:
 
 `python app.py`
+
+To run all the tests
+ `python run-tests.py`
 
 ### 1) Assimilate the business scenario and articulate testable hypotheses.
 
@@ -41,6 +44,8 @@ The idea data to address this business problem is to have :
 - times_viewed
 - price
 - country
-
+------
+## EDA
+As part of the EDA investigation, these graphs were created:
 
 
