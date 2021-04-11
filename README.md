@@ -46,6 +46,6 @@ The idea data to address this business problem is to have :
 - country
 ------
 ## EDA
-As part of the EDA investigation, these graphs were created:
+Can be found in the [Data_Ingestion & EDA Notebook](https://github.com/mouadzeghraoui/coursera-ibm-ai-workflow-submission/blob/main/Final_Capstone/notebooks/Part1%20Data%20ingestion%20%26%20EDA.ipynb)
 
 
